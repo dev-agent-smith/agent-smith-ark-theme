@@ -1,13 +1,13 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "name": "@dev-agent-smith/agent-smith-ark-theme",
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "Desktop Wallet Theme Template of Agent Smith ",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "Agent Smith",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "title": "Agent Smith Theme",
+    "logo": "https://github.com/dev-agent-smith/agent-smith-ark-theme/blob/master/logo.png",
     "categories": [
       "theme"
     ],
@@ -27,9 +27,9 @@
     "Author Name"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/dev-agent-smith/agent-smith-ark-theme/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/dev-agent-smith/agent-smith-ark-theme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
